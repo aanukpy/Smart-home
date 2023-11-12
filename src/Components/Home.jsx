@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
 import "../App.css";
 import { Link } from 'react-router-dom';
@@ -11,7 +12,7 @@ export const HomePage = () => {
           <div className="rectangle" />
           <div className="text-wrapper-3">Active Devices</div>
           <div className="ellipse" />
-          <img className="whatsapp-image" alt="Whatsapp image" src="src/images/id.jpg" />
+          <img className="whatsapp-image" alt="Whatsapp image" src="./images/whatsapp icon.jpg" />
        
           <div className="text-wrapper-4">14</div>
         </div>
@@ -31,7 +32,7 @@ export const HomePage = () => {
           <div className="ellipse-3" />
         </div>
         <div className="image-wrapper">
-          <img className="image" alt="Image" src='' />
+          <img className="image" alt="Image" src='id.jpg' />
         </div>
         <div className="overlap-group-2">
           <div className="text-wrapper-9">Manage Room</div>
@@ -72,7 +73,7 @@ export const HomePage = () => {
         <img className="img" alt="Rectangle" src="rectangle-22.svg" />
         <div className="overlap-6">
           <img className="iconmonstr-angel-2" alt="Iconmonstr angel" src="iconmonstr-angel-down-circle-thin-3.svg" />
-          <img className="rectangle-6" alt="Rectangle" src={'./'} />
+          <img className="rectangle-6" alt="Rectangle" src="./src/images/rectangke.jpg" />
           <div className="text-wrapper-13">Secure,Manage,Thrive</div>
           <div className="rectangle-7" />
           <p className="manage-security">

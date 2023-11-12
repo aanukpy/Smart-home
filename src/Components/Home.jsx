@@ -11,7 +11,7 @@ export const HomePage = () => {
           <div className="rectangle" />
           <div className="text-wrapper-3">Active Devices</div>
           <div className="ellipse" />
-          <img className="whatsapp-image" alt="Whatsapp image" src=" " />
+          <img className="whatsapp-image" alt="Whatsapp image" src="src/images/id.jpg" />
        
           <div className="text-wrapper-4">14</div>
         </div>

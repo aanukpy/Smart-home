@@ -11,7 +11,7 @@ export const HomePage = () => {
           <div className="rectangle" />
           <div className="text-wrapper-3">Active Devices</div>
           <div className="ellipse" />
-          <img className="whatsapp-image" alt="Whatsapp image" src="" />
+          <img className="whatsapp-image" alt="Whatsapp image" src=" " />
        
           <div className="text-wrapper-4">14</div>
         </div>
@@ -31,7 +31,7 @@ export const HomePage = () => {
           <div className="ellipse-3" />
         </div>
         <div className="image-wrapper">
-          <img className="image" alt="Image" src={"./images/maria.png"} />
+          <img className="image" alt="Image" src='' />
         </div>
         <div className="overlap-group-2">
           <div className="text-wrapper-9">Manage Room</div>

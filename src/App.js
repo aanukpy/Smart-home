@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
-import Login from './Components/login';
+import LogIn from './Components/Login/Login';
 import Home from './Components/Register';
 import LivingRoom from './Components/Living/Living';
 import { LandingPage } from './Components/Landing/Landing';
@@ -13,9 +13,12 @@ import Light from './Components/Light/Light';
 function App() {
   return (
    <> 
+   
  <Router>
       <div>
         <Routes>
+        <Route path="/login" element={<LogIn/>} />
+
           <Route path="/living-room" element={<LivingRoom />} />
           <Route path="/bathroom" element={<Bathroom />} />
           <Route path="/kitchen" element={<Kitchen />} />

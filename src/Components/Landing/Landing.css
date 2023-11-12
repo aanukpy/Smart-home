@@ -1,0 +1,242 @@
+.landing-page {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landing-page .div {
+  background: linear-gradient(
+    180deg,
+    rgba(7, 28, 104, 0.82) 0%,
+    rgba(7, 32, 119, 0.07) 93.23%,
+    rgba(9, 46, 177, 0.03) 96.88%,
+    rgba(16, 51, 190, 0) 100%
+  );
+  background-color: rgba(255, 255, 255, 1);
+  height: 4368px;
+  position: relative;
+  width: 1728px;
+}
+
+.landing-page .about-features {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 817px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 51px;
+  width: 910px;
+}
+
+.landing-page .image {
+  height: 532px;
+  left: 1030px;
+  position: absolute;
+  top: 1787px;
+  width: 521px;
+}
+
+.landing-page .welcome-to-ezyliv {
+  color: #ffffff;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 136px;
+  letter-spacing: 1.44px;
+  line-height: normal;
+  position: absolute;
+  top: 1037px;
+  width: 1474px;
+}
+
+.landing-page .iconmonstr-check {
+  height: 24px;
+  left: 1668px;
+  position: absolute;
+  top: 1290px;
+  width: 24px;
+}
+
+.landing-page .overlap-group-wrapper {
+  height: 749px;
+  left: 65px;
+  position: absolute;
+  top: 1875px;
+  width: 735px;
+}
+
+.landing-page .overlap-group-2 {
+  height: 749px;
+  position: relative;
+}
+
+.landing-page .group-2 {
+  background-image: url("");
+  background-size: 100% 100%;
+  height: 504px;
+  left: 0;
+  opacity: 0.41;
+  position: absolute;
+  top: 246px;
+  width: 735px;
+}
+
+.landing-page .group-3 {
+  height: 320px;
+  left: 85px;
+  position: absolute;
+  top: 315px;
+  width: 565px;
+}
+
+.landing-page .group-4 {
+  height: 604px;
+  left: 90px;
+  position: absolute;
+  top: 0;
+  width: 557px;
+}
+
+.landing-page .component {
+  height: 169px;
+  left: 76px;
+  position: absolute;
+  top: 61px;
+  width: 168px;
+}
+
+.landing-page .group-15 {
+  position: relative !important;
+  top: 7px !important;
+  width: unset !important;
+}
+
+.landing-page .group-5 {
+  height: 352px;
+  left: 482px;
+  position: absolute;
+  top: 256px;
+  width: 978px;
+}
+
+.landing-page .overlap {
+  height: 226px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 972px;
+}
+
+.landing-page .smart-living-one {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.landing-page .span {
+  color: #ffffff;
+}
+
+.landing-page .text-wrapper-2 {
+  color: #516bc4;
+}
+
+.landing-page .text-wrapper-3 {
+  color: #94b9fe;
+}
+
+.landing-page .ezyliv {
+  color: transparent;
+  font-family: "Abril Fatface-Regular", Helvetica;
+  font-size: 160px;
+  font-weight: 400;
+  left: 88px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 884px;
+}
+
+.landing-page .group-wrapper {
+  height: 169px;
+  left: 543px;
+  position: absolute;
+  top: 20px;
+  width: 168px;
+}
+
+.landing-page .free-to-join {
+  height: 78px;
+  left: 378px;
+  position: absolute;
+  top: 274px;
+  width: 290px;
+}
+
+.landing-page .overlap-group-3 {
+  height: 78px;
+  position: relative;
+  width: 288px;
+}
+
+.landing-page .rectangle {
+  background-color: #05d8f5;
+  border-radius: 30px;
+  height: 66px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.landing-page .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 240px;
+}
+
+.landing-page .div-wrapper {
+  background-color: #d9d9d90f;
+  border: 1px solid;
+  border-color: #94b9fe;
+  border-radius: 30px;
+  height: 68px;
+  left: 13px;
+  position: absolute;
+  top: 275px;
+  width: 290px;
+}
+
+.landing-page .text-wrapper-5 {
+  color: #94b9fe;
+  font-family: "Inter-Bold", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}

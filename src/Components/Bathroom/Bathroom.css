@@ -1,0 +1,320 @@
+.bathroom {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .bathroom .overlap-group-wrapper {
+    background: linear-gradient(180deg, rgb(44.62, 95.62, 95.62) 0%, rgba(34, 55, 129, 0) 100%);
+    background-color: rgba(255, 255, 255, 1);
+    height: 1117px;
+    width: 1728px;
+  }
+  
+  .bathroom .overlap-group {
+    height: 948px;
+    left: 102px;
+    position: relative;
+    top: 65px;
+    width: 1527px;
+  }
+  
+  .bathroom .rectangle {
+    background-color: #c4c4c4e6;
+    border-radius: 79px;
+    height: 948px;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    width: 1527px;
+  }
+  
+  .bathroom .image {
+    height: 948px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1527px;
+  }
+  
+  .bathroom .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 48px;
+    font-weight: 600;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 75px;
+    width: 298px;
+  }
+  
+  .bathroom .div {
+    background-color: #d9d9d999;
+    border-radius: 79px;
+    height: 344px;
+    left: 73px;
+    opacity: 0.6;
+    position: absolute;
+    top: 569px;
+    width: 1386px;
+  }
+  
+  .bathroom .rectangle-2 {
+    background-color: #253a41a1;
+    border-radius: 59px;
+    height: 222px;
+    left: 464px;
+    position: absolute;
+    top: 639px;
+    width: 261px;
+  }
+  
+  .bathroom .rectangle-3 {
+    background-color: #253a41a1;
+    border-radius: 59px;
+    height: 222px;
+    left: 788px;
+    position: absolute;
+    top: 638px;
+    width: 261px;
+  }
+  
+  .bathroom .rectangle-4 {
+    background-color: #253a41a1;
+    border-radius: 59px;
+    height: 222px;
+    left: 1111px;
+    position: absolute;
+    top: 639px;
+    width: 261px;
+  }
+  
+  .bathroom .ellipse {
+    background-color: #535d5c;
+    border-radius: 27px/26.5px;
+    height: 53px;
+    left: 1392px;
+    position: absolute;
+    top: 723px;
+    width: 54px;
+  }
+  
+  .bathroom .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 1406px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 721px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 497px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 758px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 819px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 761px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 1140px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 761px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .text-wrapper-6 {
+    color: #445458;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 155px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 583px;
+  }
+  
+  .bathroom .rectangle-5 {
+    background-color: #253b42a6;
+    border-radius: 59px;
+    height: 222px;
+    left: 167px;
+    position: absolute;
+    top: 639px;
+    width: 261px;
+  }
+  
+  .bathroom .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 758px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .iconmonstr-light {
+    height: 47px;
+    left: 212px;
+    position: absolute;
+    top: 680px;
+    width: 53px;
+  }
+  
+  .bathroom .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 804px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 498px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 804px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 819px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 804px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 1140px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 804px;
+    white-space: nowrap;
+  }
+  
+  .bathroom .ellipse-2 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 199px;
+    position: absolute;
+    top: 662px;
+    width: 79px;
+  }
+  
+  .bathroom .ellipse-3 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 500px;
+    position: absolute;
+    top: 662px;
+    width: 79px;
+  }
+  
+  .bathroom .ellipse-4 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 819px;
+    position: absolute;
+    top: 662px;
+    width: 79px;
+  }
+  
+  .bathroom .ellipse-5 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 1140px;
+    position: absolute;
+    top: 662px;
+    width: 79px;
+  }
+  
+  .bathroom .image-removebg {
+    height: 60px;
+    left: 519px;
+    object-fit: cover;
+    position: absolute;
+    top: 672px;
+    width: 43px;
+  }
+  
+  .bathroom .img {
+    height: 63px;
+    left: 829px;
+    object-fit: cover;
+    position: absolute;
+    top: 672px;
+    width: 68px;
+  }
+  
+  .bathroom .image-removebg-2 {
+    height: 68px;
+    left: 1147px;
+    position: absolute;
+    top: 666px;
+    width: 68px;
+  }
+  

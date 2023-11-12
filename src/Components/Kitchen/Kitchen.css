@@ -1,0 +1,322 @@
+
+.kitchen {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .kitchen .div {
+    background: linear-gradient(180deg, rgb(34, 55, 129) 0%, rgba(34, 55, 129, 0) 100%);
+    background-color: rgba(255, 255, 255, 1);
+    height: 1117px;
+    overflow: hidden;
+    position: relative;
+    width: 1728px;
+  }
+  
+  .kitchen .rectangle {
+    height: 162px;
+    left: -4791px;
+    position: absolute;
+    top: -219px;
+    width: 170px;
+  }
+  
+  .kitchen .overlap-group {
+    background-image: url('../../images/kitche.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 948px;
+    left: 101px;
+    position: absolute;
+    top: 85px;
+    width: 1527px;
+  }
+  
+  .kitchen .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 48px;
+    font-weight: 600;
+    left: 61px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 55px;
+    width: 298px;
+  }
+  
+  .kitchen .overlap {
+    border-radius: 79px;
+    height: 344px;
+    left: 71px;
+    position: absolute;
+    top: 550px;
+    width: 1386px;
+  }
+  
+  .kitchen .rectangle-2 {
+    background-color: #d9d9d999;
+    border-radius: 79px;
+    height: 344px;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    width: 1386px;
+  }
+  
+  .kitchen .rectangle-3 {
+    background-color: #253b42a6;
+    border-radius: 59px;
+    height: 222px;
+    left: 394px;
+    position: absolute;
+    top: 68px;
+    width: 261px;
+  }
+  
+  .kitchen .ellipse {
+    background-color: #253b428c;
+    border-radius: 27px/26.5px;
+    height: 53px;
+    left: 1322px;
+    position: absolute;
+    top: 153px;
+    width: 54px;
+  }
+  
+  .kitchen .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 1336px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 151px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .text-wrapper-3 {
+    color: #2b3c3d;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 15px;
+  }
+  
+  .kitchen .refrigerator {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 421px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 151px;
+  }
+  
+  .kitchen .rectangle-4 {
+    background-color: #253b42a6;
+    border-radius: 59px;
+    height: 222px;
+    left: 71px;
+    position: absolute;
+    top: 68px;
+    width: 261px;
+  }
+  
+  .kitchen .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 104px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 187px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .iconmonstr-light {
+    height: 47px;
+    left: 116px;
+    position: absolute;
+    top: 109px;
+    width: 53px;
+  }
+  
+  .kitchen .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 104px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 233px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 421px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 232px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .ellipse-2 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 103px;
+    position: absolute;
+    top: 91px;
+    width: 79px;
+  }
+  
+  .kitchen .ellipse-3 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 424px;
+    position: absolute;
+    top: 93px;
+    width: 79px;
+  }
+  
+  .kitchen .image-removebg {
+    height: 75px;
+    left: 436px;
+    object-fit: cover;
+    position: absolute;
+    top: 97px;
+    width: 56px;
+  }
+  
+  .kitchen .rectangle-5 {
+    background-color: #253a41a1;
+    border-radius: 59px;
+    height: 222px;
+    left: 706px;
+    position: absolute;
+    top: 69px;
+    width: 261px;
+  }
+  
+  .kitchen .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 739px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 188px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 740px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 234px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .ellipse-4 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 742px;
+    position: absolute;
+    top: 92px;
+    width: 79px;
+  }
+  
+  .kitchen .img {
+    height: 60px;
+    left: 761px;
+    object-fit: cover;
+    position: absolute;
+    top: 102px;
+    width: 43px;
+  }
+  
+  .kitchen .rectangle-6 {
+    background-color: #253a41a1;
+    border-radius: 59px;
+    height: 222px;
+    left: 1014px;
+    position: absolute;
+    top: 68px;
+    width: 261px;
+  }
+  
+  .kitchen .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 1043px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 190px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 1043px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 233px;
+    white-space: nowrap;
+  }
+  
+  .kitchen .ellipse-5 {
+    background-color: #d9d9d947;
+    border-radius: 39.5px;
+    height: 79px;
+    left: 1043px;
+    position: absolute;
+    top: 91px;
+    width: 79px;
+  }
+  
+  .kitchen .image-removebg-2 {
+    height: 68px;
+    left: 1050px;
+    position: absolute;
+    top: 95px;
+    width: 68px;
+  }
+  
